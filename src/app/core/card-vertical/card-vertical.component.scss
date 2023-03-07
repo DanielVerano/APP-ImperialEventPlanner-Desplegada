@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Racing+Sans+One&display=swap');
+
+.card-vertical {
+    border-radius: 20px;
+}
+
+mat-card-header {
+    justify-content: end;
+    margin-bottom: 1%;
+    padding-top: 1%;
+}
+
+h2 {
+    font-family: 'Racing Sans One', cursive;
+    font-size: 1.75em;
+}
+
+.material-icons {
+    font-size: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: 45%;
+}
